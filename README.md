@@ -62,3 +62,4 @@ bunx create-hono
 4. [Hono getStarted](https://hono.dev/top)
 5. [Hono + Cloudflare Workers で REST API を作ろう！超入門](https://zenn.dev/minagishl/articles/c2f31c049348ea)
 6. [Wrangler CLI ドキュメント](https://developers.cloudflare.com/workers/wrangler/)
+7. [bun + D1 + cloudflare workers, 環境作成](https://zenn.dev/knaka0209/scraps/8288ab9df79627)

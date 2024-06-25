@@ -1,0 +1,18 @@
+### Sign API Request
+
+POST http://localhost:3000/sign
+Content-Type: application/json
+
+{
+  "message": "Hello, world!"
+}
+
+### Verify API Request
+
+POST http://localhost:3000/verify
+Content-Type: application/json
+
+{
+  "message": "Hello, world!",
+  "signature": "<signature>"
+}
