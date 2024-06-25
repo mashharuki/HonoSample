@@ -67,3 +67,4 @@ bunx create-hono
 9. [Cloudflare Workers から D1 を操作する](https://zenn.dev/kameoncloud/articles/6264967e5fd1da)
 10. [Hono を使い倒したい 2024](https://zenn.dev/aishift/articles/a3dc8dcaac6bfa)
 11. [HTTP クライアントツールどれ使う？](https://qiita.com/tsukasaI/items/214d3039dc19be7599f1)
+12. [hanabi](https://hanabi.rest/applications/W9wLmfX4AzM)
